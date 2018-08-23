@@ -1,5 +1,7 @@
 <?php
 
-	echo "Testando alterção com o git hub";
+	echo "Testando alteração com o git hub ";
+
+	echo "Testando conflitos"
 
 ?>
